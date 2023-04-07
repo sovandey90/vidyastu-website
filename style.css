@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+nav {
+     display: flex;
+     justify-content: space-between;
+     background-color: rgb(177, 206, 130);
+     padding: 20px
+     ;
+    
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    font-weight: bold;
+
+    
+}
+nav ul li {
+    margin-left: 40px;
+    color: white;
+    font-size: 16px;
+
+}
+.logo {
+    height: 80px;
+    width: 80px;
+}
+
+.btn {
+    background-color: #F0C14B;
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+.hero-image {
+    height: 560px;
+    width: 100%;
+
+}
+.course-logo img {
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    margin: 20px;
+    
+}
+.course-logo {
+    text-align: center;
+    padding: 10px 0;
+              
+}
+.technology {
+    padding: 50px 0;
+    text-align: center;
+    background: url(https://cdn.pixabay.com/photo/2018/03/10/09/45/businessman-3213659__340.jpg);
+    
+
+}
+.technology button {
+    margin-top: 15px;
+}
+.technology h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.technology .btn {
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.placement h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(119, 119, 219);
+    
+}
+.technology img {
+    height: 150px;
+    width: 150px;
+   
+
+}
+.placement {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #FBFCFF;
+}
+.students h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 35px;
+    color: rgb(119, 119, 219);
+}
+.students img {
+    height: 400px;
+    width: 350px;
+    padding: 40px 10px;
+    border-radius: 10px;
+    
+}
+.students {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #F5F7F9;
+}
+.feature {
+    background-color: #FFFFFF;
+}
+.feature h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+    color: rgb(119, 119, 219);
+
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.display img {
+    height: 300px;
+    width: 550px;
+    margin: 60px 60px;
+    
+}
+.display ul {
+    margin: 60px 60px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.display ul li {
+    padding: 10px;
+}
+
+
+.card img {
+    width: 100px;
+    border-radius: 10px;
+    
+
+}
+.card {
+    background-color: #d4d7d8c5;
+    padding: 10px;
+    width: 30%;
+    border-radius: 15px;
+    text-align: center;
+    margin: 8px;
+    
+
+}
+
+
+
+.card .btn {
+    border: none;
+    text-transform: uppercase;
+}
+.card p {
+    margin: 15px 0;
+    color: #a3a1a1;
+}
+.our-course {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #F5F7F9;
+   
+}
+
+.card-logo {
+    display: flex;
+    
+}
+
+
+
+.our-course-heading {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 40px;
+    color: rgb(119, 119, 219);
+
+
+}
+.footer {
+    display: flex;
+    background-color: #333333;
+    color: white;
+   padding: 35px;
+   justify-content: space-between;
+}
+.footer h1 {
+    margin-bottom: 20px;
+}
+.footer p {
+    margin: 5px;
+}
